@@ -1,0 +1,24 @@
+sayi1=5
+sayi2=5.7
+print(type(sayi1))
+print(type(sayi2))
+us1=3**4
+print(us1)
+bolum= 19/8
+print(bolum)
+print(abs(-9))
+print(round(sayi2))
+say1=10
+say2=4
+say3=10
+print(say1==say2)
+print(say1<say2)
+print(say3==say1)
+a=5
+b="5"
+print(a==b)
+b=int(b)
+print(a==b)
+d=5
+c=str(d)
+print(type(c))
